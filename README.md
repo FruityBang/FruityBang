@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm a Python Developer
+
+Languages and Tools: Python/Django/Django REST Framework/PostgreSQL/Docker/Docker-Compose/Yandex.Cloud/Linux/Nhinx/Unittest
 
 <!--
 **FruityBang/FruityBang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
